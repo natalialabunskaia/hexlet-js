@@ -1,2 +1,1 @@
-# hexlet-js
-First project
+Мой первый проект на Хекслете
