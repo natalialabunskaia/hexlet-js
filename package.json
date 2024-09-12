@@ -18,5 +18,8 @@
   "homepage": "https://github.com/natalialabunskaia/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
